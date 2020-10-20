@@ -32,9 +32,7 @@ The run_analysis.R script performs the data cleaning and tidying process as per 
 
         x is created by merging x_train and x_test using rbind() function
 
-        y is created by merging 
-
-        y_train and y_test using rbind() function
+        y is created by merging y_train and y_test using rbind() function
 
         subject is created by merging subject_train and subject_test using rbind() function
 
