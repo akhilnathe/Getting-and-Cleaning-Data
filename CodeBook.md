@@ -36,7 +36,7 @@ The run_analysis.R script performs the data cleaning and tidying process as per 
 
         subject is created by merging subject_train and subject_test using rbind() function
 
-        mergedData is created by merging Subject, Y and X using cbind() function
+        mergedData is created by merging Subject, y and x using cbind() function
 
 4.Extracts only the measurements on the mean and standard deviation for each measurement
 
